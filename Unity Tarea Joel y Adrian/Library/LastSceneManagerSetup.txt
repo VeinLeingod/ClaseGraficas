@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/TareaJoel_y_Webber.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
